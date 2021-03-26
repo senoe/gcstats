@@ -1,0 +1,247 @@
+{
+  "MAIN_LOBBY": {
+    "id": -1,
+    "name": "Main Lobby",
+    "short_name": "Main Lobby",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "MAIN": {
+    "id": -1,
+    "name": "Main Lobby",
+    "short_name": "Main Lobby",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "TOURNAMENT_LOBBY": {
+    "id": -1,
+    "name": "Tournament Hall",
+    "short_name": "Tournament Hall",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "TOURNAMENT": {
+    "id": -1,
+    "name": "Tournament Hall",
+    "short_name": "Tournament Hall",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "LIMBO": {
+    "id": -1,
+    "name": "Limbo",
+    "short_name": "Limbo",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "IDLE": {
+    "id": -1,
+    "name": "AFK",
+    "short_name": "AFK",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "QUEUE": {
+    "id": -1,
+    "name": "Queue",
+    "short_name": "Queue",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  },
+  "QUAKECRAFT": {
+    "id": 2,
+    "name": "Quakecraft",
+    "short_name": "Quake",
+    "database_name": "Quake",
+    "icon_url": "/gametypes_icons/Quakecraft-64.png"
+  },
+  "WALLS": {
+    "id": 3,
+    "name": "The Walls",
+    "short_name": "Walls",
+    "database_name": "Walls",
+    "icon_url": "/gametypes_icons/Walls-64.png"
+  },
+  "PAINTBALL": {
+    "id": 4,
+    "name": "Paintball Warfare",
+    "short_name": "Paintball",
+    "database_name": "Paintball",
+    "icon_url": "/gametypes_icons/Paintball-64.png"
+  },
+  "SURVIVAL_GAMES": {
+    "id": 5,
+    "name": "Blitz SG",
+    "short_name": "Blitz",
+    "database_name": "HungerGames",
+    "icon_url": "/gametypes_icons/SG-64.png"
+  },
+  "TNTGAMES": {
+    "id": 6,
+    "name": "TNT Games",
+    "short_name": "TNT Games",
+    "database_name": "TNTGames",
+    "icon_url": "/gametypes_icons/TNT-64.png"
+  },
+  "VAMPIREZ": {
+    "id": 7,
+    "name": "VampireZ",
+    "short_name": "VampireZ",
+    "database_name": "VampireZ",
+    "icon_url": "/gametypes_icons/VampireZ-64.png"
+  },
+  "WALLS3": {
+    "id": 13,
+    "name": "Mega Walls",
+    "short_name": "Mega Walls",
+    "database_name": "Walls3",
+    "icon_url": "/gametypes_icons/MegaWalls-64.png"
+  },
+  "ARCADE": {
+    "id": 14,
+    "name": "Arcade Games",
+    "short_name": "Arcade",
+    "database_name": "Arcade",
+    "icon_url": "/gametypes_icons/Arcade-64.png"
+  },
+  "ARENA": {
+    "id": 17,
+    "name": "Arena Brawl",
+    "short_name": "Arena",
+    "database_name": "Arena",
+    "icon_url": "/gametypes_icons/Arena-64.png"
+  },
+  "UHC": {
+    "id": 20,
+    "name": "UHC Champions",
+    "short_name": "UHC",
+    "database_name": "UHC",
+    "icon_url": "/gametypes_icons/UHC-64.png"
+  },
+  "MCGO": {
+    "id": 21,
+    "name": "Cops & Crims",
+    "short_name": "Cops and Crims",
+    "database_name": "MCGO",
+    "icon_url": "/gametypes_icons/CVC-64.png"
+  },
+  "BATTLEGROUND": {
+    "id": 23,
+    "name": "Warlords",
+    "short_name": "Warlords",
+    "database_name": "Battleground",
+    "icon_url": "/gametypes_icons/Warlords-64.png"
+  },
+  "SUPER_SMASH": {
+    "id": 24,
+    "name": "Smash Heroes",
+    "short_name": "Smash Heroes",
+    "database_name": "SuperSmash",
+    "icon_url": "/gametypes_icons/SmashHeroes-64.png"
+  },
+  "GINGERBREAD": {
+    "id": 25,
+    "name": "Turbo Kart Racers",
+    "short_name": "TKR",
+    "database_name": "GingerBread",
+    "icon_url": "/gametypes_icons/TurboKartRacers-64.png"
+  },
+  "HOUSING": {
+    "id": 26,
+    "name": "Housing",
+    "short_name": "Housing",
+    "database_name": "Housing",
+    "icon_url": "/gametypes_icons/Housing-64.png"
+  },
+  "SKYWARS": {
+    "id": 51,
+    "name": "SkyWars",
+    "short_name": "SkyWars",
+    "database_name": "SkyWars",
+    "icon_url": "/gametypes_icons/Skywars-64.png"
+  },
+  "TRUE_COMBAT": {
+    "id": 52,
+    "name": "Crazy Walls",
+    "short_name": "Crazy Walls",
+    "database_name": "TrueCombat",
+    "icon_url": "/gametypes_icons/CrazyWalls-64.png"
+  },
+  "SPEED_UHC": {
+    "id": 54,
+    "name": "Speed UHC",
+    "short_name": "Speed UHC",
+    "database_name": "SpeedUHC",
+    "icon_url": "/gametypes_icons/SpeedUHC-64.png"
+  },
+  "SKYCLASH": {
+    "id": 55,
+    "name": "SkyClash",
+    "short_name": "SkyClash",
+    "database_name": "SkyClash",
+    "icon_url": "/gametypes_icons/SkyClash-64.png"
+  },
+  "LEGACY": {
+    "id": 56,
+    "name": "Classic Games",
+    "short_name": "Classic Games",
+    "database_name": "Legacy",
+    "icon_url": "/gametypes_icons/ClassicLobby-64.png"
+  },
+  "PROTOTYPE": {
+    "id": 57,
+    "name": "Prototype",
+    "short_name": "Prototype",
+    "database_name": "Prototype",
+    "icon_url": "/gametypes_icons/Prototype-64.png"
+  },
+  "BEDWARS": {
+    "id": 58,
+    "name": "Bed Wars",
+    "short_name": "Bed Wars",
+    "database_name": "Bedwars",
+    "icon_url": "/gametypes_icons/BedWars-64.png"
+  },
+  "MURDER_MYSTERY": {
+    "id": 59,
+    "name": "Murder Mystery",
+    "short_name": "Murder Mystery",
+    "database_name": "MurderMystery",
+    "icon_url": "/gametypes_icons/MurderMystery-64.png"
+  },
+  "BUILD_BATTLE": {
+    "id": 60,
+    "name": "Build Battle",
+    "short_name": "Build Battle",
+    "database_name": "BuildBattle",
+    "icon_url": "/gametypes_icons/BuildBattle-64.png"
+  },
+  "DUELS": {
+    "id": 61,
+    "name": "Duels",
+    "short_name": "Duels",
+    "database_name": "Duels",
+    "icon_url": "/gametypes_icons/Duels-64.png"
+  },
+  "SKYBLOCK": {
+    "id": 63,
+    "name": "SkyBlock",
+    "short_name": "SkyBlock",
+    "database_name": "SkyBlock",
+    "icon_url": "/gametypes_icons/SkyBlock-64.png"
+  },
+  "PIT": {
+    "id": 64,
+    "name": "The Pit",
+    "short_name": "The Pit",
+    "database_name": "Pit",
+    "icon_url": "/gametypes_icons/Pit-64.png"
+  },
+  "REPLAY": {
+    "id": -1,
+    "name": "Replay",
+    "short_name": "Replay",
+    "database_name": "",
+    "icon_url": "/gametypes_icons/Unanounced-64.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "gcstats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "senoe",
+  "license": "ISC",
+  "dependencies": {
+    "@zikeji/hypixel": "^2.1.1",
+    "axios": "^0.21.1",
+    "cache-manager": "^3.4.1",
+    "canvas": "^2.7.0",
+    "discord.js": "^11.6.1",
+    "dotenv": "^8.2.0",
+    "minecraft-uuid-cache": "^1.0.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "nodemon": "^2.0.7"
+  }
+}
