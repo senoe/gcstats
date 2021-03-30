@@ -91,7 +91,8 @@ module.exports = {
             `Last Login: §9${utils.formatTime(player.lastLogin)}`,
             `Last Online: §9${lastOnlineString}`,
             `Last Seen: §9${lastSeenString}`,
-            ``,
+            //``,
+            player.socialMedia && player.socialMedia.links ? `` : null
             //`Known Aliases: §2${knownAliases[0].join(", ")}`,
             player.socialMedia && player.socialMedia.links && player.socialMedia.links.HYPIXEL   ? `Forums: §6${player.socialMedia.links.HYPIXEL}` : null,
             player.socialMedia && player.socialMedia.links && player.socialMedia.links.DISCORD   ? `Discord: §6${player.socialMedia.links.DISCORD}` : null,
