@@ -72,7 +72,7 @@ module.exports = {
             if(playerStatus.online) { lastSeenString = "Currently online"; lastOnlineString = "Currently online"; }
         }
 
-        var knownAliases = utils.chunkArray(player.knownAliases, 4);
+        /*var knownAliases = utils.chunkArray(player.knownAliases, 4);*/
         
         lines = utils.cleanArray([
             playerNameFormatted,
@@ -102,11 +102,12 @@ module.exports = {
             player.socialMedia && player.socialMedia.links && player.socialMedia.links.TWITCH    ? `Twitch: §6${player.socialMedia.links.TWITCH}` : null,
         ])
 
-        if(knownAliases.length > 1) {
+        /* if(knownAliases.length > 1) {
             for(var i = 1; i < knownAliases.length - 1; i++) {
                 lines.splice(utils.containsIndexArray("Known Aliases: ", lines) + 1, 0, `§2${knownAliases[i].join(", ")}`);
             }
         }
+        */
 
         const size = 30;
         const padding = 8;
